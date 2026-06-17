@@ -1,0 +1,46 @@
+# Core Dependencies
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Image Processing
+Pillow==10.0.0
+opencv-python==4.8.0.74
+imageio==2.32.0
+
+# Color Theory & Processing
+colorsys==3.11
+colorspacious==1.1.2
+webcolors==1.13
+colour==0.1.5
+
+# CSS & HTML Processing
+csscompressor==0.9.5
+htmlmin==0.1.12
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# API Clients
+canva-api==2.1.0
+anthropic==0.7.1
+
+# Data Processing
+numpy==1.24.3
+pandas==2.0.3
+Jinja2==3.1.2
+
+# Web Framework (Optional)
+fastapi==0.100.0
+uvicorn==0.23.2
+
+# Testing
+pytest==7.4.0
+pytest-cov==4.1.0
+
+# Optimization
+html5lib==1.1
+cssutils==2.7.1
+autoprefixer==2.0.1
+
+# Additional Tools
+pydantic==2.0.3
+typing-extensions==4.7.1
